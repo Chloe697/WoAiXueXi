@@ -1,0 +1,27 @@
+Intro of python
+  https://www.w3schools.com/python/python_intro.asp
+
+  python: programming language
+  Python syntax can be executed by 
+  1. writing directly in the Command Line
+  2. Use Integrated Development Environment: Pycharm/Spyder/Visual Code etc
+
+
+Vairables & Data Types
+https://www.w3schools.com/python/python_datatypes.asp
+
+str	：x = "Hello World"	
+int	：x = 20	
+float	：x = 20.5	
+complex：x = 1j		
+list：x = ["apple", "banana", "cherry"]		
+tuple：x = ("apple", "banana", "cherry")		
+range	：x = range(6)	
+dict：x = {"name" : "John", "age" : 36}		
+set：x = {"apple", "banana", "cherry"}		
+frozenset：x = frozenset({"apple", "banana", "cherry"})		
+bool：x = True		
+bytes：x = b"Hello"		
+
+
+
